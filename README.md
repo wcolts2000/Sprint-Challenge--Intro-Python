@@ -29,8 +29,8 @@ Complete the programs in the `src/` directory in any order.
 [x] - `comp/`
 [x] - `comp.py`: list comprehensions
 
-- `cityreader/`
-  - `cityreader.py`: modules and CSV file reading
+[x] - `cityreader/`
+[x] - `cityreader.py`: modules and CSV file reading
 
 ## Testing
 
