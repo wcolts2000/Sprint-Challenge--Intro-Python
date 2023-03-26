@@ -1,8 +1,11 @@
-#  Sprint Challenge: Intro to Python
+# Sean Pheneger: CS Week 1
+
+# Sprint Challenge: Intro to Python
 
 In this week's Sprint you explored the Python programming language as well as object-oriented design principles. This Sprint Challenge aims to assess your comfort in both of these areas through exercises similar to the ones you worked on at the beginning of this week in Intro to Python.
 
 ## Instructions
+
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in the preceding days.
@@ -19,30 +22,32 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Complete the programs in the `src/` directory in any order.
 
-* `oop/`
-    * `oop1.py`: class hierarchies
-    * `oop2.py`: subclassing and method overriding
-* `comp/`
-    * `comp.py`: list comprehensions
-* `cityreader/`
-    * `cityreader.py`: modules and CSV file reading
+[x] - `oop/`
+
+[x] - `oop1.py`: class hierarchies
+[x] - `oop2.py`: subclassing and method overriding
+[x] - `comp/`
+[x] - `comp.py`: list comprehensions
+
+[x] - `cityreader/`
+[x] - `cityreader.py`: modules and CSV file reading
 
 ## Testing
 
-Each file has its own associated test file. To test your code, run `python [name_of_test_file.py]` or `python3 [name_of_test_file.py]` if your Python 3 command is mapped to `python3`. Note: `cityreader` needs to be run from the same directory as the files or it will not be able to find the associated CSV file.
+[x] Each file has its own associated test file. To test your code, run `python [name_of_test_file.py]` or `python3 [name_of_test_file.py]` if your Python 3 command is mapped to `python3`. Note: `cityreader` needs to be run from the same directory as the files or it will not be able to find the associated CSV file.
 
-The `cityreader` stretch goal has its own test file, `test_stretch.py`, if you want to take a stab at implementing the stretch problem.
+[x] The `cityreader` stretch goal has its own test file, `test_stretch.py`, if you want to take a stab at implementing the stretch problem.
 
 **_It's never a bad idea to take a look at the test files in order to see what each test is expecting._**
 
 ## Minimum Viable Product
 
-In order to meet MVP requirements for this Sprint Challenge, complete all of the exercises posed in each directory by getting the tests for each exercise to pass.
+[x] In order to meet MVP requirements for this Sprint Challenge, complete all of the exercises posed in each directory by getting the tests for each exercise to pass.
 
-In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets the MVP requirements than one that attempts too much and does not.
+[x] In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets the MVP requirements than one that attempts too much and does not.
 
 ## Stretch Problems
 
-The `cityreader` directory poses an stretch problem that builds upon the functionality you are to implement as part of the non-stretch requirements in the `cityreader` directory. 
+[x] The `cityreader` directory poses an stretch problem that builds upon the functionality you are to implement as part of the non-stretch requirements in the `cityreader` directory.
 
-There's a separate test file `test_stretch.py` for the stretch problem that you can run in order to test your implementation of the stretch problem.
+[x] There's a separate test file `test_stretch.py` for the stretch problem that you can run in order to test your implementation of the stretch problem.
